@@ -1,0 +1,128 @@
+body{
+  background-color: #B9F8D3;
+    margin:0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #40514E;
+
+}
+.TC{
+  background-color: #40DFEF;
+  position: relative;
+  padding-top:100px;
+}
+.MC{
+  margin: 100px 0;
+}
+.BC{
+  background-color: #E78EA9;
+  padding: 50px 0 20px;
+}
+h1{
+  font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    color: #6A5495;
+    line-height: 2;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #ED5EDD;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #FF8080;
+}
+p{
+  font-family: 'Mochiy Pop P One', sans-serif;
+  line-height: 2;
+}
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+a{
+  color: #CDF0EA;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #F9F9F9;
+}
+
+.btn {
+  background: #55d934;
+  background-image: -webkit-linear-gradient(top, #55d934, #2bb874);
+  background-image: -moz-linear-gradient(top, #55d934, #2bb874);
+  background-image: -ms-linear-gradient(top, #55d934, #2bb874);
+  background-image: -o-linear-gradient(top, #55d934, #2bb874);
+  background-image: linear-gradient(to bottom, #55d934, #2bb874);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #89fc3c;
+  background-image: -webkit-linear-gradient(top, #89fc3c, #34d96e);
+  background-image: -moz-linear-gradient(top, #89fc3c, #34d96e);
+  background-image: -ms-linear-gradient(top, #89fc3c, #34d96e);
+  background-image: -o-linear-gradient(top, #89fc3c, #34d96e);
+  background-image: linear-gradient(to bottom, #89fc3c, #34d96e);
+  text-decoration: none;
+}
+.i{
+  width: 30%
+  margin: auto;
+}
+.a{
+  height: 12.5rem;
+}
+.bottom-cloud{
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+.top-cloud{
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+  padding-bottom: 20px;
+}
+.gi{
+  width: 25%;
+  float:right;
+  margin-left: 30px;
+}
+.ii{
+  width: 25%;
+  float:left;
+  margin-right: 30px;
+}
+.cm{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+.copyright{
+  color: #B9F8D3;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
